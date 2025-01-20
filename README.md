@@ -11,7 +11,8 @@
 ## 2024
 
 ### Physics-based Machine Learning
-**Event:** [DevFest2024](https://github.com/Kanan99/Devfest_2024_sciml) 
+**Event:** [DevFest2024](https://github.com/Kanan99/Devfest_2024_sciml)  
+
 **Topic:** Merging Physics and Data  
 **Date:** November 2024
 
