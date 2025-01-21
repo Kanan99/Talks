@@ -3,7 +3,7 @@
 ## 2025
 
 ### AI in Autonomous Vehicles
-**Event:** AISECC Baku  
+**Event:** AIESEC in Azerbaijan, Youth to Business Forum  
 **Topic:** AI in Autonomous Car - Tesla Case Study  
 **Date:** January 2025  
 **Location:** Baku
